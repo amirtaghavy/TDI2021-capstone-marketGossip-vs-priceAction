@@ -3,3 +3,4 @@ dill
 pandas
 plotly
 datetime
+statsmodels
